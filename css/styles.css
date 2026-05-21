@@ -11,7 +11,7 @@ header {
   position: sticky;
   top: 0;
   text-align: center;
-  z-index: 999990;
+  z-index: 999;
 }
 
 .nav-logo {
